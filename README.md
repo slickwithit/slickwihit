@@ -16,5 +16,5 @@ I'm Archita Sharma, a student passionate about tech.
 - **LinkedIn**: [Archita Sharma](https://www.linkedin.com/in/architasharma3011)
 
 ##  My Projects
-- [Project 1](#) *(Replace # with the actual URL to your project)*
-- [Project 2](#) *(Replace # with the actual URL to your project)*
+- [Dice Roll Simulator](https://github.com/slickwithit/Dice-Rolling-Game) - A simple Python program to simulate rolling a pair of dice.
+
