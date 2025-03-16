@@ -1,20 +1,20 @@
- Hi there 👋
+# Hi there 👋
 
-I'm Archita Sharma, a student passionate about AI.
+I'm Archita Sharma, a student passionate about tech.
 
- Technologies & Tools
-- Languages: Python, C++, HTML, CSS, etc.
-- Tools: PowerBI, Tableau, VS Code
+## Technologies & Tools
+- **Languages**: Python, C++, HTML, CSS, etc.
+- **Tools**: PowerBI, Tableau, VS Code
 
- I’m currently learning
-- Operating Sstems
+## I’m currently learning
+- Operating Systems
 - Web Development
 - Data Mining
 
- How to reach me
-- Email: ([sharmaarchita683@gmail.com](url))
-- LinkedIn: [(www.linkedin.com/in/architasharma3011)](url)
+## How to reach me
+- **Email**: [sharmaarchita683@gmail.com](mailto:sharmaarchita683@gmail.com)
+- **LinkedIn**: [Archita Sharma](https://www.linkedin.com/in/architasharma3011)
 
- My Projects
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)# slickwihit
+##  My Projects
+- [Project 1](#) *(Replace # with the actual URL to your project)*
+- [Project 2](#) *(Replace # with the actual URL to your project)*
