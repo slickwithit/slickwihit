@@ -17,4 +17,6 @@ I'm Archita Sharma, a student passionate about tech.
 
 ##  My Projects
 - [Dice Roll Simulator](https://github.com/slickwithit/Dice-Rolling-Game) - A simple Python program to simulate rolling a pair of dice.
+- [Number Guessing Game](https://github.com/slickwithit/Number-Guessing-Game) - A fun Python program where you guess a number between 1 and 100.
+- [Rock, Paper, Scissors](https://github.com/slickwithit/Rock-Paper-Scissors) - A classic game implemented in Python with emojis for choices.
 
